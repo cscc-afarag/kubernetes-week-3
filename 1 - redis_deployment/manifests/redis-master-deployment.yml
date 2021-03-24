@@ -1,0 +1,25 @@
+apiVersion: apps/v1
+kind: 
+metadata:
+  name: 
+  labels:
+    
+spec:
+  selector:
+    matchLabels:
+      
+  replicas: 
+  template:
+    metadata:
+      labels:
+        
+    spec:
+      containers:
+      - name: 
+        image: 
+        resources:
+          requests:
+            cpu: 
+            memory: 
+        ports:
+        - containerPort: 
